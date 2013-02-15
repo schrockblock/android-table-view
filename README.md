@@ -1,0 +1,1 @@
+This is project for iOS developers coming to Android who don't want to struggle with the frustration of figuring out ListViews. It gives you iOS style methods to implement, just like if you were implementing a UITableViewDataSource.
